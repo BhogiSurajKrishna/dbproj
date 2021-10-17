@@ -1,4 +1,4 @@
-Restaurant Management System Spring 2020
+Restaurant Management System
 Prof.Umesh Bellur | webapp | Nodejs, Postgres
 
 Developed an application that enables restaurant owner to manage kitchen resources, staff, deliveries
